@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @iancovix
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+                PROFILE
+ Hi, I’m iancovix
+ I’m a Junior Front End Developer 
+ I’m currently learning javascript, html, css, react
+ I'm eager to learn and  work.
+
+
+           SOCIAL MEDIA LINKS 
+Facebook=> Ian Covix
+Tiktok => Ian Covix Web Developer
+Fun fact => I was inspired by a custom domain but I realized that takes time to get it 
+So I decided to learn HTMl, Css and Javascript .
+I love Software Engineering 
+I am eager to create,maintain, my client's web applications and submit in time with stunning, visually intuitive, and user friendly.
+
+
+          EDUCATION STATUS
+High School
+School Name => Majet Secondary School Nansana 
+SoftWare Lessons => Self Taught via online.
+With experience of 8months
+
+
+               LOCATION
+Am currently located in Uganda 
+District => Wakiso
+Municipality =>Nansana 
+Village/Parish => Naluvule
+You can check out my Portfolio 
+ link =>  https://iancovix.netlify.app
 
 <!---
 iancovix/iancovix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
