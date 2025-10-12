@@ -1,9 +1,10 @@
 
                 PROFILE
- Hi, I’m iancovix,
+ Hi, I’m Iancovix,
  A Junior Front End Developer 
  I’m currently learning javascript, html, css, react.
  I'm eager to learn and  work.
+By original names of AKALA IAN
 
 
            SOCIAL MEDIA LINKS 
