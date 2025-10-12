@@ -1,6 +1,6 @@
 
                 PROFILE
- Hi, I’m Iancovix,
+ Hi, I’m Ian covix,
  A Junior Front End Developer 
  I’m currently learning javascript, html, css, react.
  I'm eager to learn and  work.
