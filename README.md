@@ -12,7 +12,7 @@ Facebook=> Ian Covix.
 Tiktok => Ian Covix Web Developer.
 Fun fact => I was inspired by a custom domain but I realized that takes time to get it . (iancovix.com).
 So I decided to learn HTMl, Css and Javascript .
-I love Software Engineering .
+I love Software Development.
 I am eager to create,maintain, my client's web applications and submit in time with stunning, visually intuitive, and user friendly.
 
 
